@@ -1,3 +1,7 @@
-Usuário:
-Idade:
-Sexo:
+Usuário: Bernardo de Sá Travasso	
+Idade: 32
+Sexo: M
+
+Usuário: Marina Bezerra	
+Idade: 32
+Sexo: F
